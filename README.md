@@ -26,5 +26,6 @@ This project is part of the **Udemy CSS Course by Jonas Schmedtmann**, designed 
 
 ---
 
-## Project Structure
+## Project preview 
 
+![Image Alt](https://github.com/Malachik/omni-food-css-project/blob/bee61c4ebabb95c954fa8304f1f7ad2b83a030b8/screencapture-127-0-0-1-5500-index-html-2026-03-04-22_47_59.png)
