@@ -1,6 +1,6 @@
 # Omni Food CSS Project
 
-![Omni Food Screenshot](img/hero.png)
+
 
 ## Overview
 
@@ -27,4 +27,4 @@ This project is part of the **Udemy CSS Course by Jonas Schmedtmann**, designed 
 ---
 
 ## Project Structure
-<p align="center"> <img src="img/hero.png" alt="Omni Food Screenshot" width="600" style="border-radius:8px;" /> </p>
+
